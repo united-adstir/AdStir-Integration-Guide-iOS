@@ -1,6 +1,6 @@
 # AdStir Integration Guide for iOS
 
-AdStirのインテグレーションガイドです。iOS環境に対応しています。[Androidのインテグレーションガイドはこちら](https://github.com/united-adstir/AdStir-Integration-Guide-Android/ "Androidののインテグレーションガイド")からご覧いただけます。
+AdStirのインテグレーションガイドです。iOS環境に対応しています。[Androidのインテグレーションガイドはこちら](https://github.com/united-adstir/AdStir-Integration-Guide-Android/ "Androidののインテグレーションガイド")からご覧いただけます。AdStirSDKは管理画面から入手することができます。
 
 * [AdStir](https://ja.ad-stir.com/ "AdStir")
 * [AdStirログイン](https://ja.ad-stir.com/login "AdStirログイン")
@@ -14,6 +14,8 @@ AdStirのインテグレーションガイドです。iOS環境に対応して�
 [バナー広告の導入](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/%E3%83%90%E3%83%8A%E3%83%BC%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "バナー広告の導入")
 
 ## ネイティブ広告の導入
+
+コンテンツにマッチしたレイアウトで掲載できるネイティブ広告の導入方法です。
 
 [ネイティブライクバナー広告の導入](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%83%A9%E3%82%A4%E3%82%AF%E3%83%90%E3%83%8A%E3%83%BC%E3%81%AE%E6%8E%B2%E8%BC%89 "ネイティブライクバナー広告の導入")
 
@@ -36,6 +38,20 @@ AdStirのインテグレーションガイドです。iOS環境に対応して�
 Ad Exchangeのバナー広告の導入方法です。バックフィルにAdStir広告や、Amazon広告を使用することができます。
 
 [Ad Exchangeバナーの導入](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/Ad-Exchange-%E3%82%A2%E3%83%97%E3%83%AA%E5%86%85%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "Google DoubleClick Ad Exchangeバナーの導入")
+
+## その他
+
+### App Transport Security(ATS)への対応 
+
+ATSが有効なiOS9以降のOSでは、すべてのネットワーク通信がSSL経由で行われる必要があります。当SDKはApp Transport Security(ATS)に対応しています。
+
+[App Transport Security(ATS)への対応](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/App-Transport-Security%28ATS%29%E3%81%B8%E3%81%AE%E5%AF%BE%E5%BF%9C "App Transport Security(ATS)への対応 ")
+
+### CocoaPodsを利用した組み込み
+
+アプリ開発の際のライブラリ管理ツール、CocoaPodsを利用した組み込み方法についてご説明しています。
+
+[CocoaPodsを利用した組み込み](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/CocoaPods%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF "CocoaPodsを利用した組み込み")
 
 ## お問い合わせ
 
