@@ -39,6 +39,18 @@ Ad Exchangeのバナー広告の導入方法です。バックフィルにAdStir
 
 [Ad Exchangeバナーの導入](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/Ad-Exchange-%E3%82%A2%E3%83%97%E3%83%AA%E5%86%85%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "Google DoubleClick Ad Exchangeバナーの導入")
 
+## Google DoubleClick Ad Exchangeインタースティシャル広告の導入
+
+Ad Exchangeインタースティシャル広告の導入方法です。バックフィルに[全画面インタースティシャル広告](#全画面インタースティシャル広告の導入)が使用されます。
+
+* [Ad Exchangeインタースティシャル広告の導入](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/AdExchange%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "Ad Exchangeインタースティシャル広告の導入")
+
+## Google AdMobメディエーションでの配信
+
+AdStirはAdMobメディエーションのカスタムイベントでの配信に対応しています。
+
+* [AdMob広告ネットワークメディエーション](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/AdMob%E5%BA%83%E5%91%8A%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3 "AdMob広告ネットワークメディエーション")
+
 ## その他
 
 ### App Transport Security(ATS)への対応 
