@@ -7,6 +7,10 @@ AdStirのインテグレーションガイドです。iOS環境に対応して�
 * [AdStir Integration Guide for Android](https://github.com/united-adstir/AdStir-Integration-Guide-Android/ "AdStir Integration Guide for Android")
 * [AdStir Integration Guide for Web](https://github.com/united-adstir/AdStir-Integration-Guide-Web/ "AdStir Integration Guide for Web")
 
+## 初期設定
+
+* [初期設定](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/%E5%88%9D%E6%9C%9F%E8%A8%AD%E5%AE%9A)
+
 ## バナー広告の導入
 
 320x50, 300x250, 320x100などのサイズのバナーの導入方法です。
