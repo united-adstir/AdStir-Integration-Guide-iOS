@@ -55,6 +55,9 @@ AdStirはAdMobメディエーションのカスタムイベントでの配信に
 
 * [AdMob広告ネットワークメディエーション](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/AdMob%E5%BA%83%E5%91%8A%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A8%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3 "AdMob広告ネットワークメディエーション")
 
+## APIリファレンス
+* [AdStirAds API Reference](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/AdStirAds-API-Reference)
+
 ## その他
 
 ### App Transport Security(ATS)への対応 
