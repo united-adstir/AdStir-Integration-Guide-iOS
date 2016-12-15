@@ -73,6 +73,12 @@ ATSが有効なiOS9以降のOSでは、すべてのネットワーク通信がSS
 
 * [CocoaPodsを利用した組み込み](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/CocoaPods%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF "CocoaPodsを利用した組み込み")
 
+* [CocoaPodsを利用した動画SDKの組み込み](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/CocoaPods%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E5%8B%95%E7%94%BBSDK%E3%81%AE%E7%B5%84%E3%81%BF%E8%BE%BC%E3%81%BF "CocoaPodsを利用した動画SDKの組み込み")
+
+
+## 変更履歴
+* [変更履歴](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/%E5%A4%89%E6%9B%B4%E5%B1%A5%E6%AD%B4 "変更履歴")
+
 ## お問い合わせ
 
 ご不明な点はお気軽に[お問い合わせ](https://ja.ad-stir.com/contact "お問い合わせ")ください。
