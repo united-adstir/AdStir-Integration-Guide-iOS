@@ -6,6 +6,7 @@ AdStirのインテグレーションガイドです。iOS環境に対応して�
 * [AdStirログイン](https://ja.ad-stir.com/login "AdStirログイン")
 * [AdStir Integration Guide for Android](https://github.com/united-adstir/AdStir-Integration-Guide-Android/ "AdStir Integration Guide for Android")
 * [AdStir Integration Guide for Web](https://github.com/united-adstir/AdStir-Integration-Guide-Web/ "AdStir Integration Guide for Web")
+* [AdStir Integration Guide for Unity](https://github.com/united-adstir/AdStir-Integration-Guide-Unity "AdStir Integration Guide for Unity")
 
 ## 初期設定
 
