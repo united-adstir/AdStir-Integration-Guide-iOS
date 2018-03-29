@@ -1,8 +1,8 @@
-# AdStir Integration Guide for iOS
+# adstir Integration Guide for iOS
 
-* [AdStir](https://ja.ad-stir.com/)
-* [AdStir Publisher Console](https://en.ad-stir.com/login)
-* [AdStir Integration Guide for Android](https://github.com/united-adstir/AdStir-Integration-Guide-Android/blob/master/README.en.md)
+* [adstir](https://ja.ad-stir.com/)
+* [adstir Publisher Console](https://en.ad-stir.com/login)
+* [adstir Integration Guide for Android](https://github.com/united-adstir/AdStir-Integration-Guide-Android/blob/master/README.en.md)
 
 
 *Read this in other languages: [日本語](README.md), [English](README.en.md).*
