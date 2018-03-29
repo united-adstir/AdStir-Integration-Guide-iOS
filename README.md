@@ -1,12 +1,12 @@
-# AdStir Integration Guide for iOS
+# adstir Integration Guide for iOS
 
-AdStirのインテグレーションガイドです。iOS環境に対応しています。[Androidのインテグレーションガイドはこちら](https://github.com/united-adstir/AdStir-Integration-Guide-Android/ "Androidののインテグレーションガイド")からご覧いただけます。AdStirSDKは管理画面から入手することができます。
+adstirのインテグレーションガイドです。iOS環境に対応しています。[Androidのインテグレーションガイドはこちら](https://github.com/united-adstir/AdStir-Integration-Guide-Android/ "Androidののインテグレーションガイド")からご覧いただけます。adstirSDKは管理画面から入手することができます。
 
-* [AdStir](https://ja.ad-stir.com/ "AdStir")
-* [AdStirログイン](https://ja.ad-stir.com/login "AdStirログイン")
-* [AdStir Integration Guide for Android](https://github.com/united-adstir/AdStir-Integration-Guide-Android/ "AdStir Integration Guide for Android")
-* [AdStir Integration Guide for Web](https://github.com/united-adstir/AdStir-Integration-Guide-Web/ "AdStir Integration Guide for Web")
-* [AdStir Integration Guide for Unity](https://github.com/united-adstir/AdStir-Integration-Guide-Unity "AdStir Integration Guide for Unity")
+* [adstir](https://ja.ad-stir.com/ "adstir")
+* [adstirログイン](https://ja.ad-stir.com/login "adstirログイン")
+* [adstir Integration Guide for Android](https://github.com/united-adstir/AdStir-Integration-Guide-Android/ "adstir Integration Guide for Android")
+* [adstir Integration Guide for Web](https://github.com/united-adstir/AdStir-Integration-Guide-Web/ "adstir Integration Guide for Web")
+* [adstir Integration Guide for Unity](https://github.com/united-adstir/AdStir-Integration-Guide-Unity "adstir Integration Guide for Unity")
 
 *Read this in other languages: [日本語](README.md), [English](README.en.md).*
 
@@ -14,7 +14,7 @@ AdStirのインテグレーションガイドです。iOS環境に対応して�
 
 サンプルプロジェクトをダウンロードすることができます。
 
-* [AdstirSampleApp](https://dl.ad-stir.com/sample/AdstirAdsSdkiOS-2.11.1-SampleApp.zip)
+* [AdstirSampleApp](https://dl.ad-stir.com/sample/AdstirAdsSdkiOS-2.11.4-SampleApp.zip)
 
 ## 初期設定
 
