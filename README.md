@@ -65,6 +65,12 @@ Ad Exchangeインタースティシャル広告の導入方法です。バック
 
 * [Ad Exchangeインタースティシャル広告の導入](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/AdExchange%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E5%BA%83%E5%91%8A%E3%81%AE%E5%B0%8E%E5%85%A5 "Ad Exchangeインタースティシャル広告の導入")
 
+## Google DoubleClick Ad Exchange動画リワード広告の導入
+
+Ad Exchange動画リワード広告の導入方法です。バックフィルに[動画視聴型インセンティブ広告](#動画視聴型インセンティブ広告の導入)が使用されます。
+
+* [Ad Exchange動画リワード広告の導入](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/AdExchange%E5%8B%95%E7%94%BB%E3%83%AA%E3%83%AF%E3%83%BC%E3%83%89 "Ad Exchange動画リワード広告の導入")
+
 ## Google AdMobメディエーションでの配信
 
 AdStirはAdMobメディエーションのカスタムイベントでの配信に対応しています。
