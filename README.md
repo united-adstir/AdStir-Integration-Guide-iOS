@@ -14,7 +14,7 @@ adstirのインテグレーションガイドです。iOS環境に対応して�
 
 サンプルプロジェクトをダウンロードすることができます。
 
-* [AdstirSampleApp](https://dl.ad-stir.com/sample/AdstirAdsSdkiOS-2.12.0-SampleApp.zip)
+* [AdstirSampleApp](https://dl.ad-stir.com/sample/AdstirAdsSdkiOS-2.13.0-SampleApp.zip)
 
 ## 初期設定
 
