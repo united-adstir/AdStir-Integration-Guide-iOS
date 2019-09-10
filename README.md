@@ -14,7 +14,7 @@ adstirのインテグレーションガイドです。iOS環境に対応して�
 
 サンプルプロジェクトをダウンロードすることができます。
 
-* [AdstirSampleApp](https://dl.ad-stir.com/sample/AdstirAdsSdkiOS-2.14.0-SampleApp.zip)
+* [AdstirSampleApp](https://dl.ad-stir.com/sample/AdstirAdsSdkiOS-2.14.2-SampleApp.zip)
 
 ## 初期設定
 
@@ -71,6 +71,12 @@ Ad Exchangeインタースティシャル広告の導入方法です。バック
 Ad Exchange動画リワード広告の導入方法です。バックフィルに[動画視聴型インセンティブ広告](#動画視聴型インセンティブ広告の導入)が使用されます。
 
 * [Ad Exchange動画リワード広告の導入](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/AdExchange%E5%8B%95%E7%94%BB%E3%83%AA%E3%83%AF%E3%83%BC%E3%83%89 "Ad Exchange動画リワード広告の導入")
+
+## Google DoubleClick Ad Exchangeネイティブ広告の導入
+
+Ad Exchangeネイティブ広告の導入方法です。バックフィルに[ネイティブ広告](#ネイティブ広告の導入)が使用されます。
+
+* [Ad Exchangeネイティブ広告の導入](https://github.com/united-adstir/AdStir-Integration-Guide-iOS/wiki/AdExchange%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E5%BA%83%E5%91%8A "Ad Exchangeネイティブ広告の導入")
 
 ## Google AdMobメディエーションでの配信
 
